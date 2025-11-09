@@ -25,6 +25,8 @@ Este projeto tem como objetivo o desenvolvimento de uma API RESTful em **Java co
 
  Para as próximas entregas, planejamos conectar uma API de bluetooth, para conseguirmos linka-las com as motos, que é a ideia do nosso projeto. Basicamente, o funcioanrio conseguiria localizar sua moto através de conexões por bluetooth, que a partir dai, mostraria a localização da moto no galpão. Obviamente, isso ainda não foi implementado mas está sendo planejado pelos desenvolvedores do projeto.
 
+Link para o Boards: https://dev.azure.com/CHALLENGE2/Challenge1/_workitems/recentlyupdated/
+
 
 Heitor Ortega – RM557825
 Marcos Vinicius Lourenço – RM556496
